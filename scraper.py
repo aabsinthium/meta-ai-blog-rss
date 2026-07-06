@@ -41,10 +41,10 @@ MAX_FEED_ITEMS = 50
 MIN_EXPECTED_POSTS = 5          # sanity floor; index always shows more than this
 REQUEST_TIMEOUT = 30
 RETRIES = 3
-USER_AGENT = (
-    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
-    "Chrome/126.0 Safari/537.36 (unofficial-rss-bot; +personal use; low frequency)"
-)
+# Must NOT claim to be Chrome: ai.meta.com returns 400 to Chrome-like UAs
+# that don't send matching sec-ch-ua client-hint headers (requests never
+# does). A generic Mozilla/compatible UA gets the full static fallback.
+USER_AGENT = "Mozilla/5.0 (compatible; unofficial-rss-bot; personal use; low frequency)"
 
 # Optional test hook: when FIXTURE_DIR is set, read local files instead of
 # the network. index.html for the index; article.html for every article.
@@ -95,21 +95,28 @@ def slug_of(href: str):
 
 
 def find_card(anchor, own_slug):
-    """Smallest ancestor that contains a date and no OTHER post's link."""
+    """Smallest ancestor with a date and no OTHER post's link; prefer one
+    that also carries a title heading. Live grid cards (July 2026) keep the
+    date in a small footer div next to a generic "Learn More" anchor, with
+    the h-title one or two levels up — the date-only ancestor is kept as a
+    fallback for hero cards, which have no headings at all."""
     node = anchor
+    fallback = None
     for _ in range(8):
         node = node.parent
         if node is None or node.name in ("body", "html"):
-            return None
+            break
         other = [
             s for a in node.find_all("a", href=True)
             if (s := slug_of(a["href"])) and s != own_slug
         ]
         if other:
-            return None  # grew past the card into a shared container
+            break  # grew past the card into a shared container
         if DATE_RE.search(node.get_text(" ", strip=True)):
-            return node
-    return None
+            if node.find(["h3", "h4", "h5"]):
+                return node
+            fallback = fallback or node
+    return fallback
 
 
 def parse_index(html: str) -> dict:

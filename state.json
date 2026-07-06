@@ -1,1 +1,129 @@
-{}
+{
+ "alta-daily-fashion-app-segment-anything": {
+  "annotation": "Most people wear only an estimated 20% of the clothes in their closets, but the rest isn’t useless. It's untapped potential: combinations that never quite come together because remembering what you own, let alone imagining how it all fits together, is harder than it sounds.",
+  "categories": [
+   "Computer Vision"
+  ],
+  "date": "2026-04-06",
+  "description": "",
+  "first_seen": "2026-07-06T14:01:22+00:00",
+  "first_seen_rfc822": "Mon, 06 Jul 2026 14:01:22 +0000",
+  "image": "https://scontent.fala4-3.fna.fbcdn.net/v/t39.2365-6/658967078_993415586351079_325919381939729048_n.gif?_nc_cat=104&ccb=1-7&_nc_sid=e280be&_nc_ohc=9MOIHZmm6dwQ7kNvwE6-x1n&_nc_oc=AdruOzjPa4qLD9030DK49X3KTBpFMToVvpfdwpBm4HVJZWp3u3EDNdanxGAW9MAj17M&_nc_zt=14&_nc_ht=scontent.fala4-3.fna&_nc_gid=PxEfMygNSfcsTwGyNXjgjw&_nc_ss=7b20f&oh=00_AQAzeZbiGNH-11IdXRUAJbulKklhOQacobV15dnCK8WWwA&oe=6A65DC52",
+  "title": "How Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet"
+ },
+ "brain2qwerty-brain-ai-human-communication": {
+  "annotation": "Last year, we introduced Brain2Qwerty v1, research that uses AI to decode brain activity into text without any surgical implant. Now we're sharing the next step: Brain2Qwerty v2, the highest-performing end-to-end pipeline capable of real-time sentence decoding from non-invasive brain recordings, approaching levels of accuracy previously exclusive to techniques that require brain surgery.",
+  "categories": [
+   "Research"
+  ],
+  "date": "2026-06-29",
+  "description": "",
+  "first_seen": "2026-07-06T14:01:22+00:00",
+  "first_seen_rfc822": "Mon, 06 Jul 2026 14:01:22 +0000",
+  "image": "https://scontent.fala4-1.fna.fbcdn.net/v/t39.2365-6/731147471_987177500749005_1892166673921917145_n.gif?_nc_cat=101&ccb=1-7&_nc_sid=e280be&_nc_ohc=Kyrca1N0VrUQ7kNvwEL8m1A&_nc_oc=AdphmYOxCvhqA10smFaPE_wyF8_DQtCO5DMGtZc22ZcoZj_tsx9iUa2IvkKQRsIkFKs&_nc_zt=14&_nc_ht=scontent.fala4-1.fna&_nc_gid=PxRvUsvAmP2h291AghFAEw&_nc_ss=7b20f&oh=00_AQD1yBkyCSJY6jhZ2sUUtZp3z2C4g8wQkG9R9RCDrHiMBw&oe=6A66052D",
+  "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery"
+ },
+ "forest-research-dino": {
+  "annotation": "Parks and greenspaces in England deliver an estimated £6.6 billion ($8.4 billion USD) in health, climate change, and environmental benefits every year. Currently, with 80% of people in England residing in towns and cities , one-third of the English population still doesn’t have access to high-quality green space. In 2023, the UK government launched a bold Environmental Improvement Plan , which sta…",
+  "categories": [
+   "Computer Vision",
+   "Open Source"
+  ],
+  "date": "2026-02-09",
+  "description": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase access to greenspaces.",
+  "first_seen": "2026-07-06T14:01:22+00:00",
+  "first_seen_rfc822": "Mon, 06 Jul 2026 14:01:22 +0000",
+  "image": "https://scontent.fala4-3.fna.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=FvdvIzlT6OgQ7kNvwGrRMpA&_nc_oc=AdoNS1l2W3KAUletC6GavX73J0eAB5EiaMwtjfTu7bqPlr1OQl1AbeQUCEU1bDKbOnA&_nc_zt=14&_nc_ht=scontent.fala4-3.fna&_nc_gid=ZsfFUrK6lu_O8jgpmFmjQw&_nc_ss=7b20f&oh=00_AQDeFkoGUOh_U2fFwjzSYwqrbTgdWAc51GaqERedUaDUmQ&oe=6A65F4FF",
+  "title": "Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO"
+ },
+ "introducing-muse-spark-msl": {
+  "annotation": "Today, we’re excited to introduce Muse Spark, the first in the Muse family of models developed by Meta Superintelligence Labs. Muse Spark is a natively multimodal reasoning model with support for tool-use, visual chain of thought, and multi-agent orchestration.",
+  "categories": [],
+  "date": "2026-04-08",
+  "description": "",
+  "first_seen": "2026-07-06T14:01:22+00:00",
+  "first_seen_rfc822": "Mon, 06 Jul 2026 14:01:22 +0000",
+  "image": "https://scontent.fala4-3.fna.fbcdn.net/v/t39.2365-6/667507363_1871749950191919_4996140970371485757_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=C0WoySDTHOwQ7kNvwGZAqlR&_nc_oc=Adr9CRaeUAmn9a-8hyA5981F73WpyKPZZByJnXr_narcKzLDNbXLlsEFzAwpfJczDXI&_nc_zt=14&_nc_ht=scontent.fala4-3.fna&_nc_gid=IlWcrg1Q2v6ugu9TUT-9Qg&_nc_ss=7b20f&oh=00_AQDmYKyyY1gv65XHMhCXUkgStF4NK8AtxkBZFKfQ3gxJ6g&oe=6A65FC2C",
+  "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence"
+ },
+ "meta-mtia-scale-ai-chips-for-billions": {
+  "annotation": "Every day, billions of people on Meta’s platforms enjoy an array of AI-powered experiences ranging from personalized recommendations to AI assistants. Meanwhile, the AI models that will define the next era of computing are evolving faster than any single hardware generation can anticipate. Serving a wide range of AI models on a global scale, while maintaining the lowest possible costs, is one of t…",
+  "categories": [],
+  "date": "2026-03-11",
+  "description": "Serving a wide range of AI models on a global scale, while maintaining the lowest possible costs, is one of the most demanding infrastructure challenges in the industry.",
+  "first_seen": "2026-07-06T14:01:22+00:00",
+  "first_seen_rfc822": "Mon, 06 Jul 2026 14:01:22 +0000",
+  "image": "https://scontent.fala4-1.fna.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=9aWEG1v8ZF0Q7kNvwHEkwbg&_nc_oc=Adogsj2bu0WPY8VDA_wyaznNoSbbssGkz-DWLvOCDZ2lh2Blz7Rg-BIlYsqJvR8BaAA&_nc_zt=14&_nc_ht=scontent.fala4-1.fna&_nc_gid=yGgW_92osKH2i2GUm783qA&_nc_ss=7b20f&oh=00_AQA679beS-933Cf1nMODisgAIUWz2Uu9hjHN_chQQ9542Q&oe=6A65F56C",
+  "title": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions"
+ },
+ "orakl-oncology-dinov2-accelerating-cancer-treatment": {
+  "annotation": "Orakl Oncology , a spinoff from the renowned Gustave Roussy Institute in Europe, aims to accelerate cancer research and drug development by combining experimental, lab-based insights and machine learning. Their mission is to help researchers and developers identify effective therapies for cancer patients during clinical trials, streamlining the discovery process. To achieve this, Orakl Oncology co…",
+  "categories": [
+   "Open Source"
+  ],
+  "date": "2025-02-20",
+  "description": "Orakl Oncology aims to accelerate cancer research and drug development by combining experimental, lab-based insights and machine learning.",
+  "first_seen": "2026-07-06T14:01:22+00:00",
+  "first_seen_rfc822": "Mon, 06 Jul 2026 14:01:22 +0000",
+  "image": "https://scontent.fala4-2.fna.fbcdn.net/v/t39.2365-6/480460718_649637170770478_3994719197111548806_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e280be&_nc_ohc=CIWsEWo5m1gQ7kNvwFb7uZM&_nc_oc=AdoGaPESOXf6JlS-G67aPbi6ZmCXUo_m-eejZ-QmAHjZRPTaQVsny0bEEQ5_YCbuuQ8&_nc_zt=14&_nc_ht=scontent.fala4-2.fna&_nc_gid=S2ViwRpLaRS8TjACtrISjw&_nc_ss=7b20f&oh=00_AQAMCr21W3GKzMBvWAfvDuuyFIWoWV8JtwUYrDMjxhm4rQ&oe=6A65ED27",
+  "title": "How Orakl Oncology is using DINOv2 to accelerate cancer treatment discovery"
+ },
+ "scaling-how-we-build-test-advanced-ai": {
+  "annotation": "As we build more capable and more personalized AI, reliability, security, and user protections are more important than ever.",
+  "categories": [],
+  "date": "2026-04-08",
+  "description": "As we build more capable, personalized AI, reliability, security, and user protections are more important than ever.",
+  "first_seen": "2026-07-06T14:01:22+00:00",
+  "first_seen_rfc822": "Mon, 06 Jul 2026 14:01:22 +0000",
+  "image": "https://scontent.fala4-2.fna.fbcdn.net/v/t39.2365-6/668130848_1453339552354697_3291493920555502062_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=9Wf5Y_TJg_QQ7kNvwHJhcP8&_nc_oc=AdrcxZKKtliabmeojFLYCMyCmCYSp2MYPLrpsH2LR1F3B36x9WN8CVi2Tj7nPkMii6E&_nc_zt=14&_nc_ht=scontent.fala4-2.fna&_nc_gid=vbQO9FVBytUIpujjXv3pfA&_nc_ss=7b20f&oh=00_AQA12p-AEs7Kkk82tKinU5h6W-JsLxgk6W4iIC3EL_e6dw&oe=6A65F7EE",
+  "title": "Scaling How We Build and Test Our Most Advanced AI"
+ },
+ "segment-anything-model-3": {
+  "annotation": "We’ve seen incredible adoption of SAM 3 over the last few months, and during that time, we’ve been working behind the scenes on updates to improve video processing efficiency. Today, we’re pleased to introduce SAM 3.1.",
+  "categories": [
+   "Computer Vision"
+  ],
+  "date": "2026-03-27",
+  "description": "",
+  "first_seen": "2026-07-06T14:01:22+00:00",
+  "first_seen_rfc822": "Mon, 06 Jul 2026 14:01:22 +0000",
+  "image": "https://scontent.fala4-3.fna.fbcdn.net/v/t39.2365-6/583339165_852765810541557_5592130597432767690_n.png?_nc_cat=107&ccb=1-7&_nc_sid=e280be&_nc_ohc=Rv2gWZy4xocQ7kNvwFIbwRb&_nc_oc=Ado14caKxfxp1rZolRyMfwPoEJqrDkGmrn3zrrD3qaf4QwfXkzAMc3fwm08-euUu1ko&_nc_zt=14&_nc_ht=scontent.fala4-3.fna&_nc_gid=HLoL44ZUQSqvQyp9PIT1EQ&_nc_ss=7b20f&oh=00_AQDviNZqeCJu1FE-qdfbPPLgwjhkdmzB2HPYRBbuMIoTyQ&oe=6A65FA61",
+  "title": "SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking With Multiplexing and Global Reasoning"
+ },
+ "tribe-v2-brain-predictive-foundation-model": {
+  "annotation": "Understanding how the human brain processes the world around us is one of the greatest open challenges in neuroscience. Breakthroughs here could transform how we understand and treat neurological conditions affecting hundreds of millions of people — and improve AI systems by directly guiding their development from neuroscientific principles.",
+  "categories": [
+   "Research"
+  ],
+  "date": "2026-03-26",
+  "description": "",
+  "first_seen": "2026-07-06T14:01:22+00:00",
+  "first_seen_rfc822": "Mon, 06 Jul 2026 14:01:22 +0000",
+  "image": "https://scontent.fala4-3.fna.fbcdn.net/v/t39.2365-6/659112495_952140057346056_1728296311373871062_n.gif?_nc_cat=104&ccb=1-7&_nc_sid=e280be&_nc_ohc=YvGt9Fq6TfIQ7kNvwHVGHdj&_nc_oc=Adoj-gckxQAtQjfYx5QggYm7dvhRz1n8cAUaRRBwSKUU1fiA5mw7xzL9KGPEasvCHwk&_nc_zt=14&_nc_ht=scontent.fala4-3.fna&_nc_gid=aAB2Jg87F7tY6Ke7SjsLqw&_nc_ss=7b20f&oh=00_AQDBZCH0OvNbS_tTiM-ZzoZjs0I40v7KWE-AoLQBMrq-Zg&oe=6A6611AB",
+  "title": "Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli"
+ },
+ "upenn-dino-sam-helping-medical-triage": {
+  "annotation": "Triage, derived from the French verb “ trier ” meaning “to sort,” has its roots in the Napoleonic era as a revolutionary method to prioritize battlefield injuries. It also implies a scarcity of resources compared to a situation’s needs. What began as a practical battlefield necessity has evolved over centuries into a critical pillar of emergency medical response. Today, triage is governed by stand…",
+  "categories": [
+   "Computer Vision"
+  ],
+  "date": "2025-12-18",
+  "description": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
+  "first_seen": "2026-07-06T14:01:22+00:00",
+  "first_seen_rfc822": "Mon, 06 Jul 2026 14:01:22 +0000",
+  "image": "https://scontent.fala4-3.fna.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=WtmgGZRO7U8Q7kNvwH8N9PE&_nc_oc=AdovSZNag8IWi3uushGI0dmyE_kBisDMeQ8xXyaoSGhjDYb0XgsBqGORd7Pty2SuRso&_nc_zt=14&_nc_ht=scontent.fala4-3.fna&_nc_gid=Mv8syhNO62mpq7hZDcm9_Q&_nc_ss=7b20f&oh=00_AQBt_DOM1PwVNIkIa9r4jyD0XBH8Ou5zDvCLmaBAXdzBoQ&oe=6A65FE37",
+  "title": "How DINO and SAM are Helping Modernize Essential Medical Triage Practices"
+ },
+ "world-resources-institute-dino-canopy-height-maps-v2": {
+  "annotation": "Forests are essential to life on Earth — storing carbon, sheltering wildlife, and shaping our climate. To protect and restore them, we must see them as never before. Today, in partnership with the World Resources Institute , we’re announcing Canopy Height Maps v2 (CHMv2): an open source model and world-scale maps generated with it. Together, they will help researchers and governments measure and u…",
+  "categories": [
+   "Open Source"
+  ],
+  "date": "2026-03-10",
+  "description": "In partnership with the World Resources Institute, today we’re announcing Canopy Height Maps v2 (CHMv2), an open source model, along with world-scale maps generated with the model.",
+  "first_seen": "2026-07-06T14:01:22+00:00",
+  "first_seen_rfc822": "Mon, 06 Jul 2026 14:01:22 +0000",
+  "image": "https://scontent.fala4-2.fna.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=ypxvzMG8HasQ7kNvwHiWnO9&_nc_oc=AdrhFtd-267Im6bMSi2a3d5Ued8dUz1GQTUzUZ-JhXFnOXd1XdJR0lF-Dx-L_pm6R_Y&_nc_zt=14&_nc_ht=scontent.fala4-2.fna&_nc_gid=1-tUzZlZcanJ62dIpsO0bQ&_nc_ss=7b20f&oh=00_AQBOkezJzdiSoS64UeEudWD9HPgjD92YMenxR3lmO3eXUA&oe=6A660006",
+  "title": "Mapping the World's Forests with Greater Precision: Introducing Canopy Height Maps v2"
+ }
+}
