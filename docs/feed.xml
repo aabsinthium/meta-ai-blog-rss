@@ -1,3 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Placeholder. Overwritten by the first run of scraper.py (Actions tab -> Update feed -> Run workflow). -->
-<rss version="2.0"><channel><title>AI at Meta Blog (unofficial feed)</title><link>https://ai.meta.com/blog/</link><description>Feed not generated yet - run the workflow once.</description></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>AI at Meta Blog (unofficial feed)</title>
+<link>https://ai.meta.com/blog/</link>
+<description>Unofficial RSS feed scraped from ai.meta.com/blog. Not affiliated with Meta.</description>
+<lastBuildDate>Mon, 06 Jul 2026 14:01:41 +0000</lastBuildDate>
+<atom:link href="https://aabsinthium.github.io/meta-ai-blog-rss/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery</title>
+<link>https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/</link>
+<guid isPermaLink="true">https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/</guid>
+<pubDate>Mon, 29 Jun 2026 12:00:00 +0000</pubDate>
+<category>Research</category>
+<description>&lt;img src="https://scontent.fala4-1.fna.fbcdn.net/v/t39.2365-6/731147471_987177500749005_1892166673921917145_n.gif?_nc_cat=101&amp;amp;ccb=1-7&amp;amp;_nc_sid=e280be&amp;amp;_nc_ohc=Kyrca1N0VrUQ7kNvwEL8m1A&amp;amp;_nc_oc=AdphmYOxCvhqA10smFaPE_wyF8_DQtCO5DMGtZc22ZcoZj_tsx9iUa2IvkKQRsIkFKs&amp;amp;_nc_zt=14&amp;amp;_nc_ht=scontent.fala4-1.fna&amp;amp;_nc_gid=PxRvUsvAmP2h291AghFAEw&amp;amp;_nc_ss=7b20f&amp;amp;oh=00_AQD1yBkyCSJY6jhZ2sUUtZp3z2C4g8wQkG9R9RCDrHiMBw&amp;amp;oe=6A66052D"/&gt;&lt;br/&gt;&lt;p&gt;Last year, we introduced Brain2Qwerty v1, research that uses AI to decode brain activity into text without any surgical implant. Now we're sharing the next step: Brain2Qwerty v2, the highest-performing end-to-end pipeline capable of real-time sentence decoding from non-invasive brain recordings, approaching levels of accuracy previously exclusive to techniques that require brain surgery.&lt;/p&gt;</description>
+<media:content url="https://scontent.fala4-1.fna.fbcdn.net/v/t39.2365-6/731147471_987177500749005_1892166673921917145_n.gif?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=Kyrca1N0VrUQ7kNvwEL8m1A&amp;_nc_oc=AdphmYOxCvhqA10smFaPE_wyF8_DQtCO5DMGtZc22ZcoZj_tsx9iUa2IvkKQRsIkFKs&amp;_nc_zt=14&amp;_nc_ht=scontent.fala4-1.fna&amp;_nc_gid=PxRvUsvAmP2h291AghFAEw&amp;_nc_ss=7b20f&amp;oh=00_AQD1yBkyCSJY6jhZ2sUUtZp3z2C4g8wQkG9R9RCDrHiMBw&amp;oe=6A66052D" medium="image"/>
+</item>
+<item>
+<title>Scaling How We Build and Test Our Most Advanced AI</title>
+<link>https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai/</link>
+<guid isPermaLink="true">https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai/</guid>
+<pubDate>Wed, 08 Apr 2026 12:00:00 +0000</pubDate>
+<description>&lt;img src="https://scontent.fala4-2.fna.fbcdn.net/v/t39.2365-6/668130848_1453339552354697_3291493920555502062_n.png?_nc_cat=110&amp;amp;ccb=1-7&amp;amp;_nc_sid=e280be&amp;amp;_nc_ohc=9Wf5Y_TJg_QQ7kNvwHJhcP8&amp;amp;_nc_oc=AdrcxZKKtliabmeojFLYCMyCmCYSp2MYPLrpsH2LR1F3B36x9WN8CVi2Tj7nPkMii6E&amp;amp;_nc_zt=14&amp;amp;_nc_ht=scontent.fala4-2.fna&amp;amp;_nc_gid=vbQO9FVBytUIpujjXv3pfA&amp;amp;_nc_ss=7b20f&amp;amp;oh=00_AQA12p-AEs7Kkk82tKinU5h6W-JsLxgk6W4iIC3EL_e6dw&amp;amp;oe=6A65F7EE"/&gt;&lt;br/&gt;&lt;p&gt;As we build more capable and more personalized AI, reliability, security, and user protections are more important than ever.&lt;/p&gt;</description>
+<media:content url="https://scontent.fala4-2.fna.fbcdn.net/v/t39.2365-6/668130848_1453339552354697_3291493920555502062_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=9Wf5Y_TJg_QQ7kNvwHJhcP8&amp;_nc_oc=AdrcxZKKtliabmeojFLYCMyCmCYSp2MYPLrpsH2LR1F3B36x9WN8CVi2Tj7nPkMii6E&amp;_nc_zt=14&amp;_nc_ht=scontent.fala4-2.fna&amp;_nc_gid=vbQO9FVBytUIpujjXv3pfA&amp;_nc_ss=7b20f&amp;oh=00_AQA12p-AEs7Kkk82tKinU5h6W-JsLxgk6W4iIC3EL_e6dw&amp;oe=6A65F7EE" medium="image"/>
+</item>
+<item>
+<title>Introducing Muse Spark: Scaling Towards Personal Superintelligence</title>
+<link>https://ai.meta.com/blog/introducing-muse-spark-msl/</link>
+<guid isPermaLink="true">https://ai.meta.com/blog/introducing-muse-spark-msl/</guid>
+<pubDate>Wed, 08 Apr 2026 12:00:00 +0000</pubDate>
+<description>&lt;img src="https://scontent.fala4-3.fna.fbcdn.net/v/t39.2365-6/667507363_1871749950191919_4996140970371485757_n.png?_nc_cat=109&amp;amp;ccb=1-7&amp;amp;_nc_sid=e280be&amp;amp;_nc_ohc=C0WoySDTHOwQ7kNvwGZAqlR&amp;amp;_nc_oc=Adr9CRaeUAmn9a-8hyA5981F73WpyKPZZByJnXr_narcKzLDNbXLlsEFzAwpfJczDXI&amp;amp;_nc_zt=14&amp;amp;_nc_ht=scontent.fala4-3.fna&amp;amp;_nc_gid=IlWcrg1Q2v6ugu9TUT-9Qg&amp;amp;_nc_ss=7b20f&amp;amp;oh=00_AQDmYKyyY1gv65XHMhCXUkgStF4NK8AtxkBZFKfQ3gxJ6g&amp;amp;oe=6A65FC2C"/&gt;&lt;br/&gt;&lt;p&gt;Today, we’re excited to introduce Muse Spark, the first in the Muse family of models developed by Meta Superintelligence Labs. Muse Spark is a natively multimodal reasoning model with support for tool-use, visual chain of thought, and multi-agent orchestration.&lt;/p&gt;</description>
+<media:content url="https://scontent.fala4-3.fna.fbcdn.net/v/t39.2365-6/667507363_1871749950191919_4996140970371485757_n.png?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=C0WoySDTHOwQ7kNvwGZAqlR&amp;_nc_oc=Adr9CRaeUAmn9a-8hyA5981F73WpyKPZZByJnXr_narcKzLDNbXLlsEFzAwpfJczDXI&amp;_nc_zt=14&amp;_nc_ht=scontent.fala4-3.fna&amp;_nc_gid=IlWcrg1Q2v6ugu9TUT-9Qg&amp;_nc_ss=7b20f&amp;oh=00_AQDmYKyyY1gv65XHMhCXUkgStF4NK8AtxkBZFKfQ3gxJ6g&amp;oe=6A65FC2C" medium="image"/>
+</item>
+<item>
+<title>How Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet</title>
+<link>https://ai.meta.com/blog/alta-daily-fashion-app-segment-anything/</link>
+<guid isPermaLink="true">https://ai.meta.com/blog/alta-daily-fashion-app-segment-anything/</guid>
+<pubDate>Mon, 06 Apr 2026 12:00:00 +0000</pubDate>
+<category>Computer Vision</category>
+<description>&lt;img src="https://scontent.fala4-3.fna.fbcdn.net/v/t39.2365-6/658967078_993415586351079_325919381939729048_n.gif?_nc_cat=104&amp;amp;ccb=1-7&amp;amp;_nc_sid=e280be&amp;amp;_nc_ohc=9MOIHZmm6dwQ7kNvwE6-x1n&amp;amp;_nc_oc=AdruOzjPa4qLD9030DK49X3KTBpFMToVvpfdwpBm4HVJZWp3u3EDNdanxGAW9MAj17M&amp;amp;_nc_zt=14&amp;amp;_nc_ht=scontent.fala4-3.fna&amp;amp;_nc_gid=PxEfMygNSfcsTwGyNXjgjw&amp;amp;_nc_ss=7b20f&amp;amp;oh=00_AQAzeZbiGNH-11IdXRUAJbulKklhOQacobV15dnCK8WWwA&amp;amp;oe=6A65DC52"/&gt;&lt;br/&gt;&lt;p&gt;Most people wear only an estimated 20% of the clothes in their closets, but the rest isn’t useless. It's untapped potential: combinations that never quite come together because remembering what you own, let alone imagining how it all fits together, is harder than it sounds.&lt;/p&gt;</description>
+<media:content url="https://scontent.fala4-3.fna.fbcdn.net/v/t39.2365-6/658967078_993415586351079_325919381939729048_n.gif?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=9MOIHZmm6dwQ7kNvwE6-x1n&amp;_nc_oc=AdruOzjPa4qLD9030DK49X3KTBpFMToVvpfdwpBm4HVJZWp3u3EDNdanxGAW9MAj17M&amp;_nc_zt=14&amp;_nc_ht=scontent.fala4-3.fna&amp;_nc_gid=PxEfMygNSfcsTwGyNXjgjw&amp;_nc_ss=7b20f&amp;oh=00_AQAzeZbiGNH-11IdXRUAJbulKklhOQacobV15dnCK8WWwA&amp;oe=6A65DC52" medium="image"/>
+</item>
+<item>
+<title>SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking With Multiplexing and Global Reasoning</title>
+<link>https://ai.meta.com/blog/segment-anything-model-3/</link>
+<guid isPermaLink="true">https://ai.meta.com/blog/segment-anything-model-3/</guid>
+<pubDate>Fri, 27 Mar 2026 12:00:00 +0000</pubDate>
+<category>Computer Vision</category>
+<description>&lt;img src="https://scontent.fala4-3.fna.fbcdn.net/v/t39.2365-6/583339165_852765810541557_5592130597432767690_n.png?_nc_cat=107&amp;amp;ccb=1-7&amp;amp;_nc_sid=e280be&amp;amp;_nc_ohc=Rv2gWZy4xocQ7kNvwFIbwRb&amp;amp;_nc_oc=Ado14caKxfxp1rZolRyMfwPoEJqrDkGmrn3zrrD3qaf4QwfXkzAMc3fwm08-euUu1ko&amp;amp;_nc_zt=14&amp;amp;_nc_ht=scontent.fala4-3.fna&amp;amp;_nc_gid=HLoL44ZUQSqvQyp9PIT1EQ&amp;amp;_nc_ss=7b20f&amp;amp;oh=00_AQDviNZqeCJu1FE-qdfbPPLgwjhkdmzB2HPYRBbuMIoTyQ&amp;amp;oe=6A65FA61"/&gt;&lt;br/&gt;&lt;p&gt;We’ve seen incredible adoption of SAM 3 over the last few months, and during that time, we’ve been working behind the scenes on updates to improve video processing efficiency. Today, we’re pleased to introduce SAM 3.1.&lt;/p&gt;</description>
+<media:content url="https://scontent.fala4-3.fna.fbcdn.net/v/t39.2365-6/583339165_852765810541557_5592130597432767690_n.png?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=Rv2gWZy4xocQ7kNvwFIbwRb&amp;_nc_oc=Ado14caKxfxp1rZolRyMfwPoEJqrDkGmrn3zrrD3qaf4QwfXkzAMc3fwm08-euUu1ko&amp;_nc_zt=14&amp;_nc_ht=scontent.fala4-3.fna&amp;_nc_gid=HLoL44ZUQSqvQyp9PIT1EQ&amp;_nc_ss=7b20f&amp;oh=00_AQDviNZqeCJu1FE-qdfbPPLgwjhkdmzB2HPYRBbuMIoTyQ&amp;oe=6A65FA61" medium="image"/>
+</item>
+<item>
+<title>Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli</title>
+<link>https://ai.meta.com/blog/tribe-v2-brain-predictive-foundation-model/</link>
+<guid isPermaLink="true">https://ai.meta.com/blog/tribe-v2-brain-predictive-foundation-model/</guid>
+<pubDate>Thu, 26 Mar 2026 12:00:00 +0000</pubDate>
+<category>Research</category>
+<description>&lt;img src="https://scontent.fala4-3.fna.fbcdn.net/v/t39.2365-6/659112495_952140057346056_1728296311373871062_n.gif?_nc_cat=104&amp;amp;ccb=1-7&amp;amp;_nc_sid=e280be&amp;amp;_nc_ohc=YvGt9Fq6TfIQ7kNvwHVGHdj&amp;amp;_nc_oc=Adoj-gckxQAtQjfYx5QggYm7dvhRz1n8cAUaRRBwSKUU1fiA5mw7xzL9KGPEasvCHwk&amp;amp;_nc_zt=14&amp;amp;_nc_ht=scontent.fala4-3.fna&amp;amp;_nc_gid=aAB2Jg87F7tY6Ke7SjsLqw&amp;amp;_nc_ss=7b20f&amp;amp;oh=00_AQDBZCH0OvNbS_tTiM-ZzoZjs0I40v7KWE-AoLQBMrq-Zg&amp;amp;oe=6A6611AB"/&gt;&lt;br/&gt;&lt;p&gt;Understanding how the human brain processes the world around us is one of the greatest open challenges in neuroscience. Breakthroughs here could transform how we understand and treat neurological conditions affecting hundreds of millions of people — and improve AI systems by directly guiding their development from neuroscientific principles.&lt;/p&gt;</description>
+<media:content url="https://scontent.fala4-3.fna.fbcdn.net/v/t39.2365-6/659112495_952140057346056_1728296311373871062_n.gif?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=YvGt9Fq6TfIQ7kNvwHVGHdj&amp;_nc_oc=Adoj-gckxQAtQjfYx5QggYm7dvhRz1n8cAUaRRBwSKUU1fiA5mw7xzL9KGPEasvCHwk&amp;_nc_zt=14&amp;_nc_ht=scontent.fala4-3.fna&amp;_nc_gid=aAB2Jg87F7tY6Ke7SjsLqw&amp;_nc_ss=7b20f&amp;oh=00_AQDBZCH0OvNbS_tTiM-ZzoZjs0I40v7KWE-AoLQBMrq-Zg&amp;oe=6A6611AB" medium="image"/>
+</item>
+<item>
+<title>Four MTIA Chips in Two Years: Scaling AI Experiences for Billions</title>
+<link>https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/</link>
+<guid isPermaLink="true">https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/</guid>
+<pubDate>Wed, 11 Mar 2026 12:00:00 +0000</pubDate>
+<description>&lt;img src="https://scontent.fala4-1.fna.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&amp;amp;ccb=1-7&amp;amp;_nc_sid=e280be&amp;amp;_nc_ohc=9aWEG1v8ZF0Q7kNvwHEkwbg&amp;amp;_nc_oc=Adogsj2bu0WPY8VDA_wyaznNoSbbssGkz-DWLvOCDZ2lh2Blz7Rg-BIlYsqJvR8BaAA&amp;amp;_nc_zt=14&amp;amp;_nc_ht=scontent.fala4-1.fna&amp;amp;_nc_gid=yGgW_92osKH2i2GUm783qA&amp;amp;_nc_ss=7b20f&amp;amp;oh=00_AQA679beS-933Cf1nMODisgAIUWz2Uu9hjHN_chQQ9542Q&amp;amp;oe=6A65F56C"/&gt;&lt;br/&gt;&lt;p&gt;Every day, billions of people on Meta’s platforms enjoy an array of AI-powered experiences ranging from personalized recommendations to AI assistants. Meanwhile, the AI models that will define the next era of computing are evolving faster than any single hardware generation can anticipate. Serving a wide range of AI models on a global scale, while maintaining the lowest possible costs, is one of t…&lt;/p&gt;</description>
+<media:content url="https://scontent.fala4-1.fna.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=9aWEG1v8ZF0Q7kNvwHEkwbg&amp;_nc_oc=Adogsj2bu0WPY8VDA_wyaznNoSbbssGkz-DWLvOCDZ2lh2Blz7Rg-BIlYsqJvR8BaAA&amp;_nc_zt=14&amp;_nc_ht=scontent.fala4-1.fna&amp;_nc_gid=yGgW_92osKH2i2GUm783qA&amp;_nc_ss=7b20f&amp;oh=00_AQA679beS-933Cf1nMODisgAIUWz2Uu9hjHN_chQQ9542Q&amp;oe=6A65F56C" medium="image"/>
+</item>
+<item>
+<title>Mapping the World's Forests with Greater Precision: Introducing Canopy Height Maps v2</title>
+<link>https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/</link>
+<guid isPermaLink="true">https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/</guid>
+<pubDate>Tue, 10 Mar 2026 12:00:00 +0000</pubDate>
+<category>Open Source</category>
+<description>&lt;img src="https://scontent.fala4-2.fna.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&amp;amp;ccb=1-7&amp;amp;_nc_sid=e280be&amp;amp;_nc_ohc=ypxvzMG8HasQ7kNvwHiWnO9&amp;amp;_nc_oc=AdrhFtd-267Im6bMSi2a3d5Ued8dUz1GQTUzUZ-JhXFnOXd1XdJR0lF-Dx-L_pm6R_Y&amp;amp;_nc_zt=14&amp;amp;_nc_ht=scontent.fala4-2.fna&amp;amp;_nc_gid=1-tUzZlZcanJ62dIpsO0bQ&amp;amp;_nc_ss=7b20f&amp;amp;oh=00_AQBOkezJzdiSoS64UeEudWD9HPgjD92YMenxR3lmO3eXUA&amp;amp;oe=6A660006"/&gt;&lt;br/&gt;&lt;p&gt;Forests are essential to life on Earth — storing carbon, sheltering wildlife, and shaping our climate. To protect and restore them, we must see them as never before. Today, in partnership with the World Resources Institute , we’re announcing Canopy Height Maps v2 (CHMv2): an open source model and world-scale maps generated with it. Together, they will help researchers and governments measure and u…&lt;/p&gt;</description>
+<media:content url="https://scontent.fala4-2.fna.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=ypxvzMG8HasQ7kNvwHiWnO9&amp;_nc_oc=AdrhFtd-267Im6bMSi2a3d5Ued8dUz1GQTUzUZ-JhXFnOXd1XdJR0lF-Dx-L_pm6R_Y&amp;_nc_zt=14&amp;_nc_ht=scontent.fala4-2.fna&amp;_nc_gid=1-tUzZlZcanJ62dIpsO0bQ&amp;_nc_ss=7b20f&amp;oh=00_AQBOkezJzdiSoS64UeEudWD9HPgjD92YMenxR3lmO3eXUA&amp;oe=6A660006" medium="image"/>
+</item>
+<item>
+<title>Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO</title>
+<link>https://ai.meta.com/blog/forest-research-dino/</link>
+<guid isPermaLink="true">https://ai.meta.com/blog/forest-research-dino/</guid>
+<pubDate>Mon, 09 Feb 2026 12:00:00 +0000</pubDate>
+<category>Computer Vision</category>
+<category>Open Source</category>
+<description>&lt;img src="https://scontent.fala4-3.fna.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&amp;amp;ccb=1-7&amp;amp;_nc_sid=e280be&amp;amp;_nc_ohc=FvdvIzlT6OgQ7kNvwGrRMpA&amp;amp;_nc_oc=AdoNS1l2W3KAUletC6GavX73J0eAB5EiaMwtjfTu7bqPlr1OQl1AbeQUCEU1bDKbOnA&amp;amp;_nc_zt=14&amp;amp;_nc_ht=scontent.fala4-3.fna&amp;amp;_nc_gid=ZsfFUrK6lu_O8jgpmFmjQw&amp;amp;_nc_ss=7b20f&amp;amp;oh=00_AQDeFkoGUOh_U2fFwjzSYwqrbTgdWAc51GaqERedUaDUmQ&amp;amp;oe=6A65F4FF"/&gt;&lt;br/&gt;&lt;p&gt;Parks and greenspaces in England deliver an estimated £6.6 billion ($8.4 billion USD) in health, climate change, and environmental benefits every year. Currently, with 80% of people in England residing in towns and cities , one-third of the English population still doesn’t have access to high-quality green space. In 2023, the UK government launched a bold Environmental Improvement Plan , which sta…&lt;/p&gt;</description>
+<media:content url="https://scontent.fala4-3.fna.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=FvdvIzlT6OgQ7kNvwGrRMpA&amp;_nc_oc=AdoNS1l2W3KAUletC6GavX73J0eAB5EiaMwtjfTu7bqPlr1OQl1AbeQUCEU1bDKbOnA&amp;_nc_zt=14&amp;_nc_ht=scontent.fala4-3.fna&amp;_nc_gid=ZsfFUrK6lu_O8jgpmFmjQw&amp;_nc_ss=7b20f&amp;oh=00_AQDeFkoGUOh_U2fFwjzSYwqrbTgdWAc51GaqERedUaDUmQ&amp;oe=6A65F4FF" medium="image"/>
+</item>
+<item>
+<title>How DINO and SAM are Helping Modernize Essential Medical Triage Practices</title>
+<link>https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/</link>
+<guid isPermaLink="true">https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/</guid>
+<pubDate>Thu, 18 Dec 2025 12:00:00 +0000</pubDate>
+<category>Computer Vision</category>
+<description>&lt;img src="https://scontent.fala4-3.fna.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&amp;amp;ccb=1-7&amp;amp;_nc_sid=e280be&amp;amp;_nc_ohc=WtmgGZRO7U8Q7kNvwH8N9PE&amp;amp;_nc_oc=AdovSZNag8IWi3uushGI0dmyE_kBisDMeQ8xXyaoSGhjDYb0XgsBqGORd7Pty2SuRso&amp;amp;_nc_zt=14&amp;amp;_nc_ht=scontent.fala4-3.fna&amp;amp;_nc_gid=Mv8syhNO62mpq7hZDcm9_Q&amp;amp;_nc_ss=7b20f&amp;amp;oh=00_AQBt_DOM1PwVNIkIa9r4jyD0XBH8Ou5zDvCLmaBAXdzBoQ&amp;amp;oe=6A65FE37"/&gt;&lt;br/&gt;&lt;p&gt;Triage, derived from the French verb “ trier ” meaning “to sort,” has its roots in the Napoleonic era as a revolutionary method to prioritize battlefield injuries. It also implies a scarcity of resources compared to a situation’s needs. What began as a practical battlefield necessity has evolved over centuries into a critical pillar of emergency medical response. Today, triage is governed by stand…&lt;/p&gt;</description>
+<media:content url="https://scontent.fala4-3.fna.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=WtmgGZRO7U8Q7kNvwH8N9PE&amp;_nc_oc=AdovSZNag8IWi3uushGI0dmyE_kBisDMeQ8xXyaoSGhjDYb0XgsBqGORd7Pty2SuRso&amp;_nc_zt=14&amp;_nc_ht=scontent.fala4-3.fna&amp;_nc_gid=Mv8syhNO62mpq7hZDcm9_Q&amp;_nc_ss=7b20f&amp;oh=00_AQBt_DOM1PwVNIkIa9r4jyD0XBH8Ou5zDvCLmaBAXdzBoQ&amp;oe=6A65FE37" medium="image"/>
+</item>
+<item>
+<title>How Orakl Oncology is using DINOv2 to accelerate cancer treatment discovery</title>
+<link>https://ai.meta.com/blog/orakl-oncology-dinov2-accelerating-cancer-treatment/</link>
+<guid isPermaLink="true">https://ai.meta.com/blog/orakl-oncology-dinov2-accelerating-cancer-treatment/</guid>
+<pubDate>Thu, 20 Feb 2025 12:00:00 +0000</pubDate>
+<category>Open Source</category>
+<description>&lt;img src="https://scontent.fala4-2.fna.fbcdn.net/v/t39.2365-6/480460718_649637170770478_3994719197111548806_n.jpg?_nc_cat=106&amp;amp;ccb=1-7&amp;amp;_nc_sid=e280be&amp;amp;_nc_ohc=CIWsEWo5m1gQ7kNvwFb7uZM&amp;amp;_nc_oc=AdoGaPESOXf6JlS-G67aPbi6ZmCXUo_m-eejZ-QmAHjZRPTaQVsny0bEEQ5_YCbuuQ8&amp;amp;_nc_zt=14&amp;amp;_nc_ht=scontent.fala4-2.fna&amp;amp;_nc_gid=S2ViwRpLaRS8TjACtrISjw&amp;amp;_nc_ss=7b20f&amp;amp;oh=00_AQAMCr21W3GKzMBvWAfvDuuyFIWoWV8JtwUYrDMjxhm4rQ&amp;amp;oe=6A65ED27"/&gt;&lt;br/&gt;&lt;p&gt;Orakl Oncology , a spinoff from the renowned Gustave Roussy Institute in Europe, aims to accelerate cancer research and drug development by combining experimental, lab-based insights and machine learning. Their mission is to help researchers and developers identify effective therapies for cancer patients during clinical trials, streamlining the discovery process. To achieve this, Orakl Oncology co…&lt;/p&gt;</description>
+<media:content url="https://scontent.fala4-2.fna.fbcdn.net/v/t39.2365-6/480460718_649637170770478_3994719197111548806_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=CIWsEWo5m1gQ7kNvwFb7uZM&amp;_nc_oc=AdoGaPESOXf6JlS-G67aPbi6ZmCXUo_m-eejZ-QmAHjZRPTaQVsny0bEEQ5_YCbuuQ8&amp;_nc_zt=14&amp;_nc_ht=scontent.fala4-2.fna&amp;_nc_gid=S2ViwRpLaRS8TjACtrISjw&amp;_nc_ss=7b20f&amp;oh=00_AQAMCr21W3GKzMBvWAfvDuuyFIWoWV8JtwUYrDMjxhm4rQ&amp;oe=6A65ED27" medium="image"/>
+</item>
+</channel>
+</rss>
