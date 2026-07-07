@@ -4,8 +4,16 @@
 <title>AI at Meta Blog (unofficial feed)</title>
 <link>https://ai.meta.com/blog/</link>
 <description>Unofficial RSS feed scraped from ai.meta.com/blog. Not affiliated with Meta.</description>
-<lastBuildDate>Tue, 07 Jul 2026 10:02:10 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 Jul 2026 20:17:09 +0000</lastBuildDate>
 <atom:link href="https://aabsinthium.github.io/meta-ai-blog-rss/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Introducing Muse Image and Muse Video</title>
+<link>https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/</link>
+<guid isPermaLink="true">https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/</guid>
+<pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
+<description>&lt;img src="https://scontent-lhr11-1.xx.fbcdn.net/v/t39.2365-6/740903239_1399413145578607_7846806312558871713_n.webp?_nc_cat=110&amp;amp;ccb=1-7&amp;amp;_nc_sid=e280be&amp;amp;_nc_ohc=69OXSgOpH9MQ7kNvwEuDQfC&amp;amp;_nc_oc=AdrxBdzsckVcPL8ICc64scFgKz8FFbWSCeKlS3jceuUKcyFBrakZlwMmHcks9Tcv0FQ&amp;amp;_nc_zt=14&amp;amp;_nc_ht=scontent-lhr11-1.xx&amp;amp;_nc_gid=vvqojXPOeWHoIqzDD5DeJA&amp;amp;_nc_ss=7820f&amp;amp;oh=00_AQCvgAmYKjk66hTaYkD3ix9Tfji9VdACdtjtKPIkBFhwuA&amp;amp;oe=6A67A121"/&gt;&lt;br/&gt;&lt;p&gt;We’re excited to launch Muse Image and preview Muse Video, the first media generation models developed by Meta Superintelligence Labs.&lt;/p&gt;</description>
+<media:content url="https://scontent-lhr11-1.xx.fbcdn.net/v/t39.2365-6/740903239_1399413145578607_7846806312558871713_n.webp?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=69OXSgOpH9MQ7kNvwEuDQfC&amp;_nc_oc=AdrxBdzsckVcPL8ICc64scFgKz8FFbWSCeKlS3jceuUKcyFBrakZlwMmHcks9Tcv0FQ&amp;_nc_zt=14&amp;_nc_ht=scontent-lhr11-1.xx&amp;_nc_gid=vvqojXPOeWHoIqzDD5DeJA&amp;_nc_ss=7820f&amp;oh=00_AQCvgAmYKjk66hTaYkD3ix9Tfji9VdACdtjtKPIkBFhwuA&amp;oe=6A67A121" medium="image"/>
+</item>
 <item>
 <title>From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery</title>
 <link>https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/</link>

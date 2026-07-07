@@ -36,6 +36,16 @@
   "image": "https://scontent.fala4-3.fna.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=FvdvIzlT6OgQ7kNvwGrRMpA&_nc_oc=AdoNS1l2W3KAUletC6GavX73J0eAB5EiaMwtjfTu7bqPlr1OQl1AbeQUCEU1bDKbOnA&_nc_zt=14&_nc_ht=scontent.fala4-3.fna&_nc_gid=ZsfFUrK6lu_O8jgpmFmjQw&_nc_ss=7b20f&oh=00_AQDeFkoGUOh_U2fFwjzSYwqrbTgdWAc51GaqERedUaDUmQ&oe=6A65F4FF",
   "title": "Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO"
  },
+ "introducing-muse-image-muse-video-msl": {
+  "annotation": "We’re excited to launch Muse Image and preview Muse Video, the first media generation models developed by Meta Superintelligence Labs.",
+  "categories": [],
+  "date": "2026-07-07",
+  "description": "Muse Image follows instructions faithfully, edits with precision, composes from multiple references, and draws on Instagram for social context. Muse Video delivers exceptional visual fidelity with native audio support.",
+  "first_seen": "2026-07-07T20:17:06+00:00",
+  "first_seen_rfc822": "Tue, 07 Jul 2026 20:17:06 +0000",
+  "image": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.2365-6/740903239_1399413145578607_7846806312558871713_n.webp?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=69OXSgOpH9MQ7kNvwEuDQfC&_nc_oc=AdrxBdzsckVcPL8ICc64scFgKz8FFbWSCeKlS3jceuUKcyFBrakZlwMmHcks9Tcv0FQ&_nc_zt=14&_nc_ht=scontent-lhr11-1.xx&_nc_gid=vvqojXPOeWHoIqzDD5DeJA&_nc_ss=7820f&oh=00_AQCvgAmYKjk66hTaYkD3ix9Tfji9VdACdtjtKPIkBFhwuA&oe=6A67A121",
+  "title": "Introducing Muse Image and Muse Video"
+ },
  "introducing-muse-spark-msl": {
   "annotation": "Today, we’re excited to introduce Muse Spark, the first in the Muse family of models developed by Meta Superintelligence Labs. Muse Spark is a natively multimodal reasoning model with support for tool-use, visual chain of thought, and multi-agent orchestration.",
   "categories": [],
