@@ -46,6 +46,16 @@
   "image": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.2365-6/740903239_1399413145578607_7846806312558871713_n.webp?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=69OXSgOpH9MQ7kNvwEuDQfC&_nc_oc=AdrxBdzsckVcPL8ICc64scFgKz8FFbWSCeKlS3jceuUKcyFBrakZlwMmHcks9Tcv0FQ&_nc_zt=14&_nc_ht=scontent-lhr11-1.xx&_nc_gid=vvqojXPOeWHoIqzDD5DeJA&_nc_ss=7820f&oh=00_AQCvgAmYKjk66hTaYkD3ix9Tfji9VdACdtjtKPIkBFhwuA&oe=6A67A121",
   "title": "Introducing Muse Image and Muse Video"
  },
+ "introducing-muse-spark-meta-model-api": {
+  "annotation": "Today, we’re excited to introduce Muse Spark 1.1, the latest model from Meta Superintelligence Labs and a significant upgrade from Muse Spark. Muse Spark 1.1 is a multimodal reasoning model built for agentic tasks, with major gains in tool and computer use, coding, and multimodal understanding.",
+  "categories": [],
+  "date": "2026-07-09",
+  "description": "",
+  "first_seen": "2026-07-09T20:05:46+00:00",
+  "first_seen_rfc822": "Thu, 09 Jul 2026 20:05:46 +0000",
+  "image": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.2365-6/741906678_873652302465180_7764547737953411008_n.png?_nc_cat=1&ccb=1-7&_nc_sid=e280be&_nc_ohc=OlBvaYygvIUQ7kNvwFNvnGq&_nc_oc=Adp3iMNH8rFC8EhnzXPtxdDykhttCnSsUxl2lsnj61Sn22gLaVNk3VITUtiia8oK00A&_nc_zt=14&_nc_ht=scontent-lhr6-2.xx&_nc_gid=vydZZtalxrQ1bNj-RFhdcg&_nc_ss=7820f&oh=00_AQAgeQDTkFTW9vLjdcaeBoKc17ZhRbcdY2dv8L5DVQ6KaA&oe=6A6A5726",
+  "title": "Introducing Muse Spark 1.1"
+ },
  "introducing-muse-spark-msl": {
   "annotation": "Today, we’re excited to introduce Muse Spark, the first in the Muse family of models developed by Meta Superintelligence Labs. Muse Spark is a natively multimodal reasoning model with support for tool-use, visual chain of thought, and multi-agent orchestration.",
   "categories": [],
