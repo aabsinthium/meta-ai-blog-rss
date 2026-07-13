@@ -48,7 +48,9 @@
  },
  "introducing-muse-spark-meta-model-api": {
   "annotation": "Today, we’re excited to introduce Muse Spark 1.1, the latest model from Meta Superintelligence Labs and a significant upgrade from Muse Spark. Muse Spark 1.1 is a multimodal reasoning model built for agentic tasks, with major gains in tool and computer use, coding, and multimodal understanding.",
-  "categories": [],
+  "categories": [
+   "Research"
+  ],
   "date": "2026-07-09",
   "description": "",
   "first_seen": "2026-07-09T20:05:46+00:00",

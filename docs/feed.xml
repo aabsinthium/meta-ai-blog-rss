@@ -4,13 +4,14 @@
 <title>AI at Meta Blog (unofficial feed)</title>
 <link>https://ai.meta.com/blog/</link>
 <description>Unofficial RSS feed scraped from ai.meta.com/blog. Not affiliated with Meta.</description>
-<lastBuildDate>Mon, 13 Jul 2026 09:49:04 +0000</lastBuildDate>
+<lastBuildDate>Mon, 13 Jul 2026 19:51:37 +0000</lastBuildDate>
 <atom:link href="https://aabsinthium.github.io/meta-ai-blog-rss/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Introducing Muse Spark 1.1</title>
 <link>https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/</link>
 <guid isPermaLink="true">https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/</guid>
 <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
+<category>Research</category>
 <description>&lt;img src="https://scontent-lhr6-2.xx.fbcdn.net/v/t39.2365-6/741906678_873652302465180_7764547737953411008_n.png?_nc_cat=1&amp;amp;ccb=1-7&amp;amp;_nc_sid=e280be&amp;amp;_nc_ohc=OlBvaYygvIUQ7kNvwFNvnGq&amp;amp;_nc_oc=Adp3iMNH8rFC8EhnzXPtxdDykhttCnSsUxl2lsnj61Sn22gLaVNk3VITUtiia8oK00A&amp;amp;_nc_zt=14&amp;amp;_nc_ht=scontent-lhr6-2.xx&amp;amp;_nc_gid=vydZZtalxrQ1bNj-RFhdcg&amp;amp;_nc_ss=7820f&amp;amp;oh=00_AQAgeQDTkFTW9vLjdcaeBoKc17ZhRbcdY2dv8L5DVQ6KaA&amp;amp;oe=6A6A5726"/&gt;&lt;br/&gt;&lt;p&gt;Today, we’re excited to introduce Muse Spark 1.1, the latest model from Meta Superintelligence Labs and a significant upgrade from Muse Spark. Muse Spark 1.1 is a multimodal reasoning model built for agentic tasks, with major gains in tool and computer use, coding, and multimodal understanding.&lt;/p&gt;</description>
 <media:content url="https://scontent-lhr6-2.xx.fbcdn.net/v/t39.2365-6/741906678_873652302465180_7764547737953411008_n.png?_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=OlBvaYygvIUQ7kNvwFNvnGq&amp;_nc_oc=Adp3iMNH8rFC8EhnzXPtxdDykhttCnSsUxl2lsnj61Sn22gLaVNk3VITUtiia8oK00A&amp;_nc_zt=14&amp;_nc_ht=scontent-lhr6-2.xx&amp;_nc_gid=vydZZtalxrQ1bNj-RFhdcg&amp;_nc_ss=7820f&amp;oh=00_AQAgeQDTkFTW9vLjdcaeBoKc17ZhRbcdY2dv8L5DVQ6KaA&amp;oe=6A6A5726" medium="image"/>
 </item>
