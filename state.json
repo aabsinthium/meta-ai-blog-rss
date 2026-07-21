@@ -36,6 +36,18 @@
   "image": "https://scontent.fala4-3.fna.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=FvdvIzlT6OgQ7kNvwGrRMpA&_nc_oc=AdoNS1l2W3KAUletC6GavX73J0eAB5EiaMwtjfTu7bqPlr1OQl1AbeQUCEU1bDKbOnA&_nc_zt=14&_nc_ht=scontent.fala4-3.fna&_nc_gid=ZsfFUrK6lu_O8jgpmFmjQw&_nc_ss=7b20f&oh=00_AQDeFkoGUOh_U2fFwjzSYwqrbTgdWAc51GaqERedUaDUmQ&oe=6A65F4FF",
   "title": "Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO"
  },
+ "genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino": {
+  "annotation": "Lawrence Berkeley National Laboratory — one of the US Department of Energy's premier research laboratories, known for Nobel Prize-winning work in physics, chemistry, and materials science — operates some of the most advanced scientific facilities on the planet. Among them is the Advanced Light Source (ALS), a football field-sized facility that produces intensely bright beams of X-ray light, allowi…",
+  "categories": [
+   "Open Source"
+  ],
+  "date": "2026-07-21",
+  "description": "",
+  "first_seen": "2026-07-21T19:54:00+00:00",
+  "first_seen_rfc822": "Tue, 21 Jul 2026 19:54:00 +0000",
+  "image": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.2365-6/752631850_918439901272497_2117962010845605116_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=pryaHqlei_cQ7kNvwEiBSPk&_nc_oc=Ado9Q4H2Y4OPs6cNHo2Bq3x2D7lCyV413u8L5WKgJ1vqwvKp4Yvae1_-eqw5X0GEKJk&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=2gVUn0Rz9vbWNm0urBq4oQ&_nc_ss=7820f&oh=00_AQAhThlfoWClfXqeoCRVd3yx5bfXx7kI5ONPFWUkfYbnsg&oe=6A7A287E",
+  "title": "How Meta’s AI Models are Powering the First Wave of Genesis Mission Projects"
+ },
  "introducing-muse-image-muse-video-msl": {
   "annotation": "We’re excited to launch Muse Image and preview Muse Video, the first media generation models developed by Meta Superintelligence Labs.",
   "categories": [],

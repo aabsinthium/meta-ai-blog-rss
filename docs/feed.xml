@@ -4,8 +4,17 @@
 <title>AI at Meta Blog (unofficial feed)</title>
 <link>https://ai.meta.com/blog/</link>
 <description>Unofficial RSS feed scraped from ai.meta.com/blog. Not affiliated with Meta.</description>
-<lastBuildDate>Tue, 21 Jul 2026 08:47:19 +0000</lastBuildDate>
+<lastBuildDate>Tue, 21 Jul 2026 19:54:02 +0000</lastBuildDate>
 <atom:link href="https://aabsinthium.github.io/meta-ai-blog-rss/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>How Meta’s AI Models are Powering the First Wave of Genesis Mission Projects</title>
+<link>https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/</link>
+<guid isPermaLink="true">https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/</guid>
+<pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+<category>Open Source</category>
+<description>&lt;img src="https://scontent-atl3-1.xx.fbcdn.net/v/t39.2365-6/752631850_918439901272497_2117962010845605116_n.png?_nc_cat=103&amp;amp;ccb=1-7&amp;amp;_nc_sid=e280be&amp;amp;_nc_ohc=pryaHqlei_cQ7kNvwEiBSPk&amp;amp;_nc_oc=Ado9Q4H2Y4OPs6cNHo2Bq3x2D7lCyV413u8L5WKgJ1vqwvKp4Yvae1_-eqw5X0GEKJk&amp;amp;_nc_zt=14&amp;amp;_nc_ht=scontent-atl3-1.xx&amp;amp;_nc_gid=2gVUn0Rz9vbWNm0urBq4oQ&amp;amp;_nc_ss=7820f&amp;amp;oh=00_AQAhThlfoWClfXqeoCRVd3yx5bfXx7kI5ONPFWUkfYbnsg&amp;amp;oe=6A7A287E"/&gt;&lt;br/&gt;&lt;p&gt;Lawrence Berkeley National Laboratory — one of the US Department of Energy's premier research laboratories, known for Nobel Prize-winning work in physics, chemistry, and materials science — operates some of the most advanced scientific facilities on the planet. Among them is the Advanced Light Source (ALS), a football field-sized facility that produces intensely bright beams of X-ray light, allowi…&lt;/p&gt;</description>
+<media:content url="https://scontent-atl3-1.xx.fbcdn.net/v/t39.2365-6/752631850_918439901272497_2117962010845605116_n.png?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=pryaHqlei_cQ7kNvwEiBSPk&amp;_nc_oc=Ado9Q4H2Y4OPs6cNHo2Bq3x2D7lCyV413u8L5WKgJ1vqwvKp4Yvae1_-eqw5X0GEKJk&amp;_nc_zt=14&amp;_nc_ht=scontent-atl3-1.xx&amp;_nc_gid=2gVUn0Rz9vbWNm0urBq4oQ&amp;_nc_ss=7820f&amp;oh=00_AQAhThlfoWClfXqeoCRVd3yx5bfXx7kI5ONPFWUkfYbnsg&amp;oe=6A7A287E" medium="image"/>
+</item>
 <item>
 <title>Introducing Muse Spark 1.1</title>
 <link>https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/</link>
