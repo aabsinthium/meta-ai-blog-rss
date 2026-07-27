@@ -11,6 +11,18 @@
   "image": "https://scontent.fala4-3.fna.fbcdn.net/v/t39.2365-6/658967078_993415586351079_325919381939729048_n.gif?_nc_cat=104&ccb=1-7&_nc_sid=e280be&_nc_ohc=9MOIHZmm6dwQ7kNvwE6-x1n&_nc_oc=AdruOzjPa4qLD9030DK49X3KTBpFMToVvpfdwpBm4HVJZWp3u3EDNdanxGAW9MAj17M&_nc_zt=14&_nc_ht=scontent.fala4-3.fna&_nc_gid=PxEfMygNSfcsTwGyNXjgjw&_nc_ss=7b20f&oh=00_AQAzeZbiGNH-11IdXRUAJbulKklhOQacobV15dnCK8WWwA&oe=6A65DC52",
   "title": "How Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet"
  },
+ "assistive-robotics-university-of-pittsburgh-sam-dino": {
+  "annotation": "In the heart of Pittsburgh, a quiet revolution is underway — one that promises to redefine what independence means for people with disabilities. At the center of this movement is the Human Engineering Research Laboratories (HERL) , a pioneering institute at the University of Pittsburgh, now leading an initiative with up to $41.5 million in funding from the Advanced Research Projects Agency for Hea…",
+  "categories": [
+   "Open Source"
+  ],
+  "date": "2026-07-27",
+  "description": "",
+  "first_seen": "2026-07-27T19:56:53+00:00",
+  "first_seen_rfc822": "Mon, 27 Jul 2026 19:56:53 +0000",
+  "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.2365-6/753694960_2219191542190533_6830137062160879015_n.png?_nc_cat=105&ccb=1-7&_nc_sid=e280be&_nc_ohc=4O0VCT1ZzHYQ7kNvwFG2_SQ&_nc_oc=Adp29IXy--yffXgtQ9s7EfhuFHro3TcccbteO-WpOC9j2a9mssKVuUgdZnrtWSZXwF4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=m6AeklzYjvJyW1Ln_mS2vQ&_nc_ss=7820f&oh=00_AQA2Mg0nRnW6ob5ngeO36tbYP0MXHjfYosBPhzM2feRhmA&oe=6A81EB20",
+  "title": "Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics"
+ },
  "brain2qwerty-brain-ai-human-communication": {
   "annotation": "Last year, we introduced Brain2Qwerty v1, research that uses AI to decode brain activity into text without any surgical implant. Now we're sharing the next step: Brain2Qwerty v2, the highest-performing end-to-end pipeline capable of real-time sentence decoding from non-invasive brain recordings, approaching levels of accuracy previously exclusive to techniques that require brain surgery.",
   "categories": [

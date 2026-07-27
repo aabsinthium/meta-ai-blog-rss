@@ -4,8 +4,17 @@
 <title>AI at Meta Blog (unofficial feed)</title>
 <link>https://ai.meta.com/blog/</link>
 <description>Unofficial RSS feed scraped from ai.meta.com/blog. Not affiliated with Meta.</description>
-<lastBuildDate>Mon, 27 Jul 2026 10:11:09 +0000</lastBuildDate>
+<lastBuildDate>Mon, 27 Jul 2026 19:56:54 +0000</lastBuildDate>
 <atom:link href="https://aabsinthium.github.io/meta-ai-blog-rss/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics</title>
+<link>https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino/</link>
+<guid isPermaLink="true">https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino/</guid>
+<pubDate>Mon, 27 Jul 2026 12:00:00 +0000</pubDate>
+<category>Open Source</category>
+<description>&lt;img src="https://scontent-ord5-2.xx.fbcdn.net/v/t39.2365-6/753694960_2219191542190533_6830137062160879015_n.png?_nc_cat=105&amp;amp;ccb=1-7&amp;amp;_nc_sid=e280be&amp;amp;_nc_ohc=4O0VCT1ZzHYQ7kNvwFG2_SQ&amp;amp;_nc_oc=Adp29IXy--yffXgtQ9s7EfhuFHro3TcccbteO-WpOC9j2a9mssKVuUgdZnrtWSZXwF4&amp;amp;_nc_zt=14&amp;amp;_nc_ht=scontent-ord5-2.xx&amp;amp;_nc_gid=m6AeklzYjvJyW1Ln_mS2vQ&amp;amp;_nc_ss=7820f&amp;amp;oh=00_AQA2Mg0nRnW6ob5ngeO36tbYP0MXHjfYosBPhzM2feRhmA&amp;amp;oe=6A81EB20"/&gt;&lt;br/&gt;&lt;p&gt;In the heart of Pittsburgh, a quiet revolution is underway — one that promises to redefine what independence means for people with disabilities. At the center of this movement is the Human Engineering Research Laboratories (HERL) , a pioneering institute at the University of Pittsburgh, now leading an initiative with up to $41.5 million in funding from the Advanced Research Projects Agency for Hea…&lt;/p&gt;</description>
+<media:content url="https://scontent-ord5-2.xx.fbcdn.net/v/t39.2365-6/753694960_2219191542190533_6830137062160879015_n.png?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=4O0VCT1ZzHYQ7kNvwFG2_SQ&amp;_nc_oc=Adp29IXy--yffXgtQ9s7EfhuFHro3TcccbteO-WpOC9j2a9mssKVuUgdZnrtWSZXwF4&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=m6AeklzYjvJyW1Ln_mS2vQ&amp;_nc_ss=7820f&amp;oh=00_AQA2Mg0nRnW6ob5ngeO36tbYP0MXHjfYosBPhzM2feRhmA&amp;oe=6A81EB20" medium="image"/>
+</item>
 <item>
 <title>How Meta’s AI Models Are Powering the First Wave of Genesis Mission Projects</title>
 <link>https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/</link>
